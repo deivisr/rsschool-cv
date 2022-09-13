@@ -16,12 +16,11 @@
   - **IDE:** *Visual Studio Code*<br>
   
 ### Experience:
-  *I do not have a lot of experience yet, but I have created / customized a template of a website for my own educational purposes which you can find here: https://github.com/deivisr/deivisr.github.io*<br>
-  *I also created a simple discord bot, that shows the bot is active and is listening to something. You can find it here:
-https://github.com/deivisr/DC-SimpleBot*
+  *I do not have a lot of experience yet, but I have created / customized a template of a website for my own educational purposes which you can find [here](https://github.com/deivisr/deivisr.github.io).*<br>
+  *I also created a simple discord bot, that shows the bot is active and is listening to something. You can find it [here](https://github.com/deivisr/DC-SimpleBot).*
 
 ### Education:
-  *My IT education is fully online. I watch Youtube guides for learning and understanding my mistakes. Also I use https://freecodecamp.org to learn and develop projects.*
+  *My IT education is fully online. I watch Youtube guides for learning and understanding my mistakes. Also I use [FreeCodeCamp](https://freecodecamp.org) to learn and develop projects.*
 
 ### Language:
   - **Lithuanian:** ***Native***, Used it my whole life.<br>
